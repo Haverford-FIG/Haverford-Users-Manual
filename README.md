@@ -28,5 +28,6 @@ A guide to things you can learn and how you can learn it.
 ### Career Information: 
 #### Internships
 * First Year Opportunities
+
 #### Research Opportunities
 * Summer Research@Haverford
