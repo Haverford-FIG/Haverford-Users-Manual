@@ -1,3 +1,5 @@
+![FIG Logo](https://github.com/kevinjcliao/Haverford-Users-Manual/blob/master/img/logo.png)
+
 # Haverford-Users-Manual
 A guide to things you can learn and how you can learn it. 
 
